@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to this wicked cool slide!"
 ---
 <strong>H*CK</strong>
 <em>Don't swear, dingus!</em>
